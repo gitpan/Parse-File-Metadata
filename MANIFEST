@@ -12,5 +12,6 @@ t/amyfile.txt
 t/bmyfile.txt
 t/cmyfile.txt
 t/dmyfile.txt
+t/emyfile.txt
 Todo
 META.yml                                 Module meta-data (added by MakeMaker)

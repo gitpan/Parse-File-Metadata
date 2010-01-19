@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Parse-File-Metadata
-version:            0.01
+version:            0.02
 abstract:           For plain-text files that contain metadata (in key-value pairs) and data records, parse metadata first before proceeding
 author:
     - James E Keenan (jkeenan@cpan.org)
