@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Parse-File-Metadata
-version:            0.03
+version:            0.04
 abstract:           For plain-text files that contain metadata (in key-value pairs) and data records, parse metadata first before proceeding
 author:
     - James E Keenan (jkeenan@cpan.org)
@@ -12,6 +12,7 @@ build_requires:
     ExtUtils::MakeMaker:  0
 requires:
     Carp:          0
+    File::Spec:    0
     Scalar::Util:  0
     Test::Simple:  0.44
     Tie::File:     0.92
